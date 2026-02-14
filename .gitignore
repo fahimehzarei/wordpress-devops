@@ -1,0 +1,9 @@
+.env
+wordpress/
+ssl/
+*.log
+.DS_Store
+.vscode/
+.idea/
+wp-content/cache/
+wp-content/uploads/
